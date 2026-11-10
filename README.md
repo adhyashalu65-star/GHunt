@@ -1,4 +1,4 @@
-![](assets/long_banner.png)
+install![](assets/long_banner.png)
 
 <br>
 
